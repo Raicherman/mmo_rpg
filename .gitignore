@@ -1,0 +1,18 @@
+# Результаты сборки
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.o
+*.out
+
+# Папки сборки
+x64/
+Debug/
+Release/
+build/
+
+# Visual Studio
+.vs/
+*.user
+*.vcxproj.user
